@@ -12,7 +12,7 @@ My GitHub page is http://github.com/justincasecode.
 
     Lab 6 is one of my favorite labs because we work on filtering vectors. The code filters the numbers in a vector based on different factors. For this lab we filter vectors based on multiples of three and five and the code prints the amount of numbers of vectors that are multiples of three and five.
 
-* Lab 8
+* Lab 7
 
     Lab 7 is another favorite of mine that utilizes loops to print out patterns. We used a loop to print out a specific number of dashes to create a triangle.
 
